@@ -17,7 +17,7 @@ using System.Threading;
 using System.Runtime.Remoting.Messaging;
 using System.Runtime.InteropServices.WindowsRuntime;
 
-// Tre Howard - 10/9/22 - CSC202 - Final Project
+
 
 namespace CSC202___DnD_Character_Sheet
 {
