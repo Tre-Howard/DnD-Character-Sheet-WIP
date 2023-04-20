@@ -1,0 +1,11 @@
+C:\Users\Tre Howard\source\repos\CSC202 - DnD Character Sheet\bin\Debug\CSC202 - DnD Character Sheet.exe.config
+C:\Users\Tre Howard\source\repos\CSC202 - DnD Character Sheet\bin\Debug\CSC202 - DnD Character Sheet.exe
+C:\Users\Tre Howard\source\repos\CSC202 - DnD Character Sheet\bin\Debug\CSC202 - DnD Character Sheet.pdb
+C:\Users\Tre Howard\source\repos\CSC202 - DnD Character Sheet\obj\Debug\CSC202 - DnD Character Sheet.csproj.AssemblyReference.cache
+C:\Users\Tre Howard\source\repos\CSC202 - DnD Character Sheet\obj\Debug\CSC202 - DnD Character Sheet.csproj.SuggestedBindingRedirects.cache
+C:\Users\Tre Howard\source\repos\CSC202 - DnD Character Sheet\obj\Debug\CSC202___DnD_Character_Sheet.Form1.resources
+C:\Users\Tre Howard\source\repos\CSC202 - DnD Character Sheet\obj\Debug\CSC202___DnD_Character_Sheet.Properties.Resources.resources
+C:\Users\Tre Howard\source\repos\CSC202 - DnD Character Sheet\obj\Debug\CSC202 - DnD Character Sheet.csproj.GenerateResource.cache
+C:\Users\Tre Howard\source\repos\CSC202 - DnD Character Sheet\obj\Debug\CSC202 - DnD Character Sheet.csproj.CoreCompileInputs.cache
+C:\Users\Tre Howard\source\repos\CSC202 - DnD Character Sheet\obj\Debug\CSC202 - DnD Character Sheet.exe
+C:\Users\Tre Howard\source\repos\CSC202 - DnD Character Sheet\obj\Debug\CSC202 - DnD Character Sheet.pdb
